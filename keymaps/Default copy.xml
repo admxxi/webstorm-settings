@@ -1,4 +1,9 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="back_quote" />
+  </action>
   <action id="RestoreDefaultLayout">
     <keyboard-shortcut first-keystroke="shift f12" />
     <mouse-shortcut keystroke="control button1" />
