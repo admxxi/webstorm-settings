@@ -25,9 +25,7 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings>
-          <option name="USE_SOFT_WRAPS" value="true" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
     </option>
   </component>
