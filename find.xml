@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files_" />
-    <option name="defaultScopeName" value="Project Files_" />
+    <option name="customScope" value="File '.../protected/assets/js/application.js - [cct]'" />
+    <option name="defaultScopeName" value="File '.../protected/assets/js/application.js - [cct]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files_" />
+    <option name="SEARCH_SCOPE" value="File '.../protected/assets/js/application.js - [cct]'" />
   </component>
 </application>
