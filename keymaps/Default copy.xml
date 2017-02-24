@@ -39,6 +39,9 @@
   <action id="SwitchRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
