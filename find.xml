@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../protected/views/content/bannercreator/templates/594/assets/css/ads-css.css - [cct]'" />
-    <option name="defaultScopeName" value="File '.../protected/views/content/bannercreator/templates/594/assets/css/ads-css.css - [cct]'" />
-    <option name="SEARCH_SCOPE" value="File '.../protected/views/content/bannercreator/templates/594/assets/css/ads-css.css - [cct]'" />
+    <option name="customScope" value="File '.../protected/models/AdsPreview.php - [cct]'" />
+    <option name="defaultScopeName" value="File '.../protected/models/AdsPreview.php - [cct]'" />
+    <option name="SEARCH_SCOPE" value="File '.../protected/models/AdsPreview.php - [cct]'" />
   </component>
 </application>
