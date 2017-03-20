@@ -2,7 +2,7 @@
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="75de70" />
     <option name="CARET_COLOR" value="f8f8f0" />
