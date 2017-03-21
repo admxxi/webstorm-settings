@@ -3,23 +3,28 @@
     <property name="created">2017-02-24T16:25:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-21T13:30:55</property>
+    <property name="modified">2017-03-21T15:13:15</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="LINE_SPACING" value="1.6" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="212c32" />
+    <option name="ADDED_LINES_COLOR" value="4ed523" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="222f35" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
-    <option name="DELETED_LINES_COLOR" value="f77669" />
+    <option name="DELETED_LINES_COLOR" value="cf2f20" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="FILESTATUS_ADDED" value="80cbc4" />
@@ -45,7 +50,7 @@
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
-    <option name="MODIFIED_LINES_COLOR" value="99b89d" />
+    <option name="MODIFIED_LINES_COLOR" value="ffe545" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -57,7 +62,7 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="WHITESPACES" value="2e3c43" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="99b89d" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="edb337" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
