@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="ProjectFiles2" />
     <option name="defaultScopeName" value="ProjectFiles2" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="ProjectFiles2" />
   </component>
 </application>
