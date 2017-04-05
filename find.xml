@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ProjectFiles2" />
-    <option name="defaultScopeName" value="ProjectFiles2" />
+    <option name="customScope" value="File '.../protected/styles/gulpfile.js - [cct]'" />
+    <option name="defaultScopeName" value="File '.../protected/styles/gulpfile.js - [cct]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="ProjectFiles2" />
+    <option name="SEARCH_SCOPE" value="File '.../protected/styles/gulpfile.js - [cct]'" />
   </component>
 </application>
