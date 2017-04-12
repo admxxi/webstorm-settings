@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../protected/views/content/bannercreator/templates/1231/assets/css/_.css - [cct]'" />
-    <option name="defaultScopeName" value="File '.../protected/views/content/bannercreator/templates/1231/assets/css/_.css - [cct]'" />
+    <option name="customScope" value="File '.../protected/views/content/bannercreator/templates/4319/template.php - [cct]'" />
+    <option name="defaultScopeName" value="File '.../protected/views/content/bannercreator/templates/4319/template.php - [cct]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../protected/views/content/bannercreator/templates/1231/assets/css/_.css - [cct]'" />
+    <option name="SEARCH_SCOPE" value="File '.../protected/views/content/bannercreator/templates/4319/template.php - [cct]'" />
   </component>
 </application>
