@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../protected/styles/src/scss/pages/_sb-realestate.scss - [cct]'" />
-    <option name="defaultScopeName" value="File '.../protected/styles/src/scss/pages/_sb-realestate.scss - [cct]'" />
-    <option name="SEARCH_SCOPE" value="File '.../protected/styles/src/scss/pages/_sb-realestate.scss - [cct]'" />
+    <option name="customScope" value="ProjectFiles2" />
+    <option name="defaultScopeName" value="ProjectFiles2" />
+    <option name="SEARCH_SCOPE" value="ProjectFiles2" />
   </component>
 </application>
