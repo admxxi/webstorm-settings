@@ -17,7 +17,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="5.6.25">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="5.6.30">
           <additional_php_ini />
           <configuration_file>/etc/php.ini</configuration_file>
           <configuration_options>
@@ -46,7 +46,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="Europe/Dublin" />
             <configuration_option name="dba.default_handler" value="flatfile" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
@@ -158,6 +158,12 @@
             <configuration_option name="pcre.backtrack_limit" value="1000000" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
             <configuration_option name="pdo_mysql.default_socket" value="/var/mysql/mysql.sock" />
+            <configuration_option name="pgsql.allow_persistent" value="1" />
+            <configuration_option name="pgsql.auto_reset_persistent" value="" />
+            <configuration_option name="pgsql.ignore_notice" value="0" />
+            <configuration_option name="pgsql.log_notice" value="0" />
+            <configuration_option name="pgsql.max_links" value="-1" />
+            <configuration_option name="pgsql.max_persistent" value="-1" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
@@ -225,7 +231,7 @@
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
             <configuration_option name="xdebug.auto_trace" value="0" />
-            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.cli_color" value="1" />
             <configuration_option name="xdebug.collect_assignments" value="0" />
             <configuration_option name="xdebug.collect_includes" value="1" />
             <configuration_option name="xdebug.collect_params" value="0" />
@@ -246,29 +252,37 @@
             <configuration_option name="xdebug.dump_undefined" value="0" />
             <configuration_option name="xdebug.extended_info" value="1" />
             <configuration_option name="xdebug.file_link_format" value="" />
-            <configuration_option name="xdebug.idekey" value="" />
-            <configuration_option name="xdebug.max_nesting_level" value="100" />
-            <configuration_option name="xdebug.overload_var_dump" value="1" />
+            <configuration_option name="xdebug.force_display_errors" value="0" />
+            <configuration_option name="xdebug.force_error_reporting" value="0" />
+            <configuration_option name="xdebug.halt_level" value="0" />
+            <configuration_option name="xdebug.idekey" value="PHPSTORM" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
+            <configuration_option name="xdebug.max_stack_frames" value="-1" />
+            <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
             <configuration_option name="xdebug.profiler_enable" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
-            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_addr_header" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="1" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="localhost" />
-            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_log" value="/var/log/xdebug.log" />
             <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.remote_port" value="10000" />
             <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_error_trace" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
-            <configuration_option name="xdebug.show_local_vars" value="0" />
+            <configuration_option name="xdebug.show_local_vars" value="1" />
             <configuration_option name="xdebug.show_mem_delta" value="0" />
             <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
             <configuration_option name="xdebug.trace_format" value="0" />
             <configuration_option name="xdebug.trace_options" value="0" />
             <configuration_option name="xdebug.trace_output_dir" value="/var/tmp/" />
@@ -288,7 +302,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.2.3">
+            <debugger_info debugger="xdebug" debugger_version="2.5.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -325,7 +339,9 @@
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />

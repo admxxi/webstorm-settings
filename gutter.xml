@@ -4,6 +4,7 @@
       <map>
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
+        <entry key="com.jetbrains.php.codeInsight.PhpRecursiveCallLineMarkerProvider" value="true" />
       </map>
     </option>
   </component>
