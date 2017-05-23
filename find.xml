@@ -3,5 +3,6 @@
     <option name="customScope" value="ProjectFiles2" />
     <option name="defaultScopeName" value="ProjectFiles2" />
     <option name="SEARCH_SCOPE" value="ProjectFiles2" />
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
