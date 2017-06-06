@@ -37,6 +37,10 @@
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="RestoreDefaultLayout">
     <keyboard-shortcut first-keystroke="shift f12" />
     <mouse-shortcut keystroke="control button1" />
