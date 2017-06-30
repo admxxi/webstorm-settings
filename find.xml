@@ -2,8 +2,32 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.te</mask>
+      <mask>*.tex</mask>
+      <mask>*.text</mask>
+      <mask>*.textC</mask>
+      <mask>*.textCl</mask>
+      <mask>*.textCli</mask>
+      <mask>*.textClip</mask>
+      <mask>*.textClipp</mask>
+      <mask>*.textClippi</mask>
+      <mask>*.textClippin</mask>
+      <mask>*.textClipping</mask>
+    </recentFileMasks>
   </component>
 </application>
