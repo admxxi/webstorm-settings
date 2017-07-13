@@ -4,11 +4,11 @@
     <property name="created">2017-02-24T16:25:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-06-23T09:50:14</property>
+    <property name="modified">2017-07-13T08:54:44</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
