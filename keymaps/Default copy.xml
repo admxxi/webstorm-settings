@@ -17,6 +17,9 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="FileChooser.ShowHiddens">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta o" />
