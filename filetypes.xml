@@ -7,6 +7,8 @@
       <mapping pattern="notpush.php" type="PLAIN_TEXT" />
       <mapping pattern="ssadadsadas" type="PLAIN_TEXT" />
       <mapping pattern="asdadas" type="PLAIN_TEXT" />
+      <mapping ext="error_log" type="PLAIN_TEXT" />
+      <mapping ext="access_log" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
