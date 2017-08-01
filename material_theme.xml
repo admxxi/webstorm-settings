@@ -4,6 +4,7 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60,60" />
     <option name="wallpaperSet" value="false" />
+    <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
