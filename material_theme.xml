@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="7fed76" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="accentColor" value="FFEB3B" />
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60,60" />
     <option name="wallpaperSet" value="false" />
     <option name="useMaterialIcons" value="false" />
