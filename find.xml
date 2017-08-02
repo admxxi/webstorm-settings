@@ -23,16 +23,16 @@
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.p</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*php</mask>
       <mask>*.s</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>*</mask>
-      <mask>*p</mask>
-      <mask>*php</mask>
+      <mask>*.p</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
