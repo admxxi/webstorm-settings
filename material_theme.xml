@@ -2,16 +2,13 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="7fed76" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="84ffff" />
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60,60" />
     <option name="wallpaperSet" value="false" />
     <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
-    <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="25" />
-    <option name="isMaterialTheme" value="false" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
   </component>
