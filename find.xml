@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../protected/styles/src/scss/components/_profileBar.scss - [cct]'" />
+    <option name="defaultScopeName" value="File '.../protected/styles/src/scss/components/_profileBar.scss - [cct]'" />
+    <option name="SEARCH_SCOPE" value="File '.../protected/styles/src/scss/components/_profileBar.scss - [cct]'" />
     <recentFileMasks>
       <mask>*.tex</mask>
       <mask>*.text</mask>
