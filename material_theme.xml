@@ -14,6 +14,7 @@
     <option name="tabsHeight" value="22" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="" />
     <option name="customSidebarHeight" value="20" />
   </component>
 </application>
