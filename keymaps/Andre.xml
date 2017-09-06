@@ -1,4 +1,8 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Andre" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="#10000a7" />
+  </action>
   <action id="Diff.SelectedChange" />
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteLine">
