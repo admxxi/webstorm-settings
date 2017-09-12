@@ -1,4 +1,8 @@
 <keymap version="1" name="Andre" parent="Mac OS X 10.5+">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="#10000a7" />
@@ -7,6 +11,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="Diff.SelectedChange" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -18,5 +25,8 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
 </keymap>
