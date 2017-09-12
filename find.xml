@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.textC</mask>
       <mask>*.textCl</mask>
@@ -20,20 +21,20 @@
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>*</mask>
-      <mask>.</mask>
       <mask>.p</mask>
       <mask>.php</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
