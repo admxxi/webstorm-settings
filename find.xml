@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.textC</mask>
-      <mask>*.textCl</mask>
-      <mask>*.textCli</mask>
-      <mask>*.textClip</mask>
-      <mask>*.textClipp</mask>
-      <mask>*.textClippi</mask>
-      <mask>*.textClippin</mask>
-      <mask>*.textClipping</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*p</mask>
       <mask>*php</mask>
       <mask>*.s</mask>
       <mask>*.sa</mask>
@@ -30,6 +20,17 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>.</mask>
+      <mask>j</mask>
+      <mask>js</mask>
+      <mask>jso</mask>
+      <mask>json</mask>
+      <mask>json_</mask>
+      <mask>json_en</mask>
+      <mask>json_enc</mask>
+      <mask>json_encoe</mask>
+      <mask>json_enco</mask>
+      <mask>json_encode</mask>
+      <mask>json_encod</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
