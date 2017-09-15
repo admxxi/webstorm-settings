@@ -39,4 +39,10 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl meta space" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <mouse-shortcut keystroke="meta button2" />
+  </action>
+  <action id="TogglePowerSave">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
