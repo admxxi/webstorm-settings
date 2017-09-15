@@ -4,6 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>*.textC</mask>
+      <mask>*.textCl</mask>
       <mask>*.textCli</mask>
       <mask>*.textClip</mask>
       <mask>*.textClipp</mask>
@@ -22,7 +24,9 @@
       <mask>.</mask>
       <mask>.p</mask>
       <mask>.php</mask>
+      <mask>*.php</mask>
       <mask>*.ph</mask>
+      <mask>*.p</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.j</mask>
@@ -30,10 +34,6 @@
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.p</mask>
-      <mask>*.pph</mask>
-      <mask>*.pp</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

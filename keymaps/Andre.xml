@@ -1,4 +1,8 @@
 <keymap version="1" name="Andre" parent="Mac OS X 10.5+">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="#10000a7" />
@@ -6,17 +10,39 @@
   <action id="ChangesView.ApplyPatch">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
   <action id="Diff.SelectedChange" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="EmojiAndSymbols" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="PhpGeneratePhpDocBlocks">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl meta space" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <mouse-shortcut keystroke="meta button2" />
+  </action>
+  <action id="TogglePowerSave">
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
 </keymap>
