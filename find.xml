@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../protected/components/Controller.php - [cct]'" />
+    <option name="defaultScopeName" value="File '.../protected/components/Controller.php - [cct]'" />
+    <option name="SEARCH_SCOPE" value="File '.../protected/components/Controller.php - [cct]'" />
     <recentFileMasks>
       <mask>*.textC</mask>
       <mask>*.textCl</mask>
