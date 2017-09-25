@@ -10,8 +10,11 @@
       <mapping pattern="ssadadsadas" type="PLAIN_TEXT" />
       <mapping pattern="asdadas" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="error_log" type="PLAIN_TEXT" />
       <mapping ext="access_log" type="PLAIN_TEXT" />
+      <mapping ext="scss" type="PLAIN_TEXT" />
+      <removed_mapping ext="scss" type="SCSS" />
     </extensionMap>
   </component>
 </application>
