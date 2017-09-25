@@ -2,17 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="dashboard*" />
     <recentFileMasks>
-      <mask>salcss</mask>
-      <mask>salescss</mask>
-      <mask>sales_css</mask>
-      <mask>sales_b</mask>
-      <mask>sales_bo</mask>
-      <mask>sales_boo</mask>
-      <mask>sales_boos</mask>
-      <mask>sales_booster</mask>
-      <mask>sales_booste</mask>
       <mask>sales_boost</mask>
       <mask>sales</mask>
       <mask>sales.</mask>
@@ -22,18 +16,27 @@
       <mask>*.sales*</mask>
       <mask>*sales*</mask>
       <mask>**</mask>
-      <mask>*.p</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scsc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.php</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*css</mask>
+      <mask>*cs</mask>
+      <mask>*c</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>das</mask>
+      <mask>dash</mask>
+      <mask>dashb</mask>
+      <mask>dashbo</mask>
+      <mask>dashboar</mask>
+      <mask>dashboard</mask>
+      <mask>dashboard*</mask>
     </recentFileMasks>
   </component>
 </application>
