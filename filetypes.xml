@@ -5,16 +5,14 @@
       <mapping pattern="ads-css.css" type="CSS" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="adasdasd" type="PLAIN_TEXT" />
-      <mapping pattern="clientScript.php" type="PLAIN_TEXT" />
-      <mapping pattern="notpush.php" type="PLAIN_TEXT" />
       <mapping pattern="ssadadsadas" type="PLAIN_TEXT" />
       <mapping pattern="asdadas" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping pattern="notpush.php" type="PLAIN_TEXT" />
+      <mapping pattern="clientScript.php" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="error_log" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="access_log" type="PLAIN_TEXT" />
-      <mapping ext="scss" type="PLAIN_TEXT" />
-      <removed_mapping ext="scss" type="SCSS" />
     </extensionMap>
   </component>
 </application>
