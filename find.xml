@@ -30,10 +30,10 @@
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
