@@ -12,8 +12,6 @@
       <mask>*.s*</mask>
       <mask>*.scs*</mask>
       <mask>*.scss*</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.pjp</mask>
       <mask>*.pj</mask>
       <mask>das</mask>
@@ -24,14 +22,16 @@
       <mask>dashboard.</mask>
       <mask>dashboard.*</mask>
       <mask>*</mask>
-      <mask>*.c</mask>
       <mask>*.s</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
     </recentFileMasks>
