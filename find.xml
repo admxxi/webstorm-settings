@@ -2,40 +2,37 @@
   <component name="FindSettings">
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*css" />
     <recentFileMasks>
-      <mask>**</mask>
-      <mask>*.*</mask>
-      <mask>*.s*</mask>
-      <mask>*.scs*</mask>
-      <mask>*.scss*</mask>
-      <mask>*.pjp</mask>
-      <mask>*.pj</mask>
-      <mask>das</mask>
-      <mask>dash</mask>
-      <mask>dashb</mask>
-      <mask>dashboar</mask>
-      <mask>dashboard</mask>
-      <mask>dashboard.</mask>
-      <mask>dashboard.*</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.cs</mask>
+      <mask>css</mask>
+      <mask>{*css</mask>
+      <mask>{*.css,</mask>
+      <mask>{*.css</mask>
+      <mask>{*.css|</mask>
+      <mask>{*.css|*</mask>
+      <mask>{*.css|*.</mask>
+      <mask>{*.css|*.s</mask>
+      <mask>{*.css|*.sc</mask>
+      <mask>{*.css|*.scs</mask>
+      <mask>{*.css|*.scss</mask>
+      <mask>{*.css|*.scss}</mask>
+      <mask>{*.css|*.scss})</mask>
+      <mask>{*.css|*.scss)</mask>
+      <mask>(*.css|*.scss)</mask>
+      <mask>*.css|*.scss)</mask>
+      <mask>*.css|*.scss</mask>
+      <mask>*.css*.scss</mask>
+      <mask>*.cs*.scss</mask>
+      <mask>*.c*.scss</mask>
+      <mask>*.*.scss</mask>
+      <mask>**.scss</mask>
+      <mask>*scss</mask>
+      <mask>*.scss</mask>
       <mask>*.css</mask>
       <mask>.css</mask>
-      <mask>css</mask>
+      <mask>.*css</mask>
       <mask>*css</mask>
     </recentFileMasks>
   </component>
