@@ -3,6 +3,7 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.php</mask>
       <mask>*.cs</mask>
@@ -30,10 +31,10 @@
       <mask>**.scss</mask>
       <mask>*scss</mask>
       <mask>*.scss</mask>
-      <mask>*.css</mask>
       <mask>.css</mask>
       <mask>.*css</mask>
       <mask>*css</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
