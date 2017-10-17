@@ -3,10 +3,8 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.cs*.scss</mask>
-      <mask>*.c*.scss</mask>
-      <mask>*.*.scss</mask>
       <mask>**.scss</mask>
       <mask>*scss</mask>
       <mask>*.scss</mask>
@@ -31,9 +29,12 @@
       <mask>custom_theme_sales_boos.css</mask>
       <mask>custom_theme_sales_booste.css</mask>
       <mask>custom_theme_sales_booster.css</mask>
+      <mask>*.js</mask>
+      <mask>*p</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
