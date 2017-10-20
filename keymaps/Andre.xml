@@ -13,6 +13,13 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CollapseRegion" />
   <action id="Diff.SelectedChange" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -23,12 +30,39 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EmojiAndSymbols" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="ExpandRegion" />
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt add" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="alt d" />

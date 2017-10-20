@@ -2,4 +2,8 @@
   <component name="CodeInsightSettings">
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
+  </component>
 </application>
