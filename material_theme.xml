@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="61ed00" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
@@ -8,11 +9,9 @@
     <option name="accentColor" value="78cbee" />
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60,60" />
     <option name="wallpaperSet" value="false" />
-    <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="22" />
-    <option name="themedScrollbars" value="false" />
+    <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="" />
     <option name="customSidebarHeight" value="20" />
