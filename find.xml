@@ -4,11 +4,8 @@
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
     <recentFileMasks>
-      <mask>**.scss</mask>
-      <mask>*scss</mask>
       <mask>*.scss</mask>
       <mask>.*css</mask>
-      <mask>*css</mask>
       <mask>*.css</mask>
       <mask>.css</mask>
       <mask>c.css</mask>
@@ -34,6 +31,9 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>cs</mask>
+      <mask>css</mask>
+      <mask>*css</mask>
     </recentFileMasks>
   </component>
 </application>
