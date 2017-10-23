@@ -3,11 +3,8 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>.css</mask>
-      <mask>c.css</mask>
-      <mask>cus.css</mask>
-      <mask>custo.css</mask>
       <mask>custom.css</mask>
       <mask>custom_.css</mask>
       <mask>custom_t.css</mask>
@@ -34,6 +31,10 @@
       <mask>php</mask>
       <mask>.php</mask>
       <mask>*.php</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
