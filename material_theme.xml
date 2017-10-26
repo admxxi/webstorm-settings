@@ -12,6 +12,7 @@
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="28" />
+    <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="" />
     <option name="customSidebarHeight" value="20" />
