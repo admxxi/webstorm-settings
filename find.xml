@@ -1,39 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
     <recentFileMasks>
-      <mask>*.php</mask>
-      <mask>*.cs</mask>
+      <mask>custom_t.css</mask>
+      <mask>custom_theme.css</mask>
+      <mask>custom_theme_.css</mask>
+      <mask>custom_theme_sa.css</mask>
+      <mask>custom_theme_sal.css</mask>
+      <mask>custom_theme_sales.css</mask>
+      <mask>custom_theme_sales_.css</mask>
+      <mask>custom_theme_sales_bo.css</mask>
+      <mask>custom_theme_sales_boo.css</mask>
+      <mask>custom_theme_sales_boos.css</mask>
+      <mask>custom_theme_sales_booste.css</mask>
+      <mask>custom_theme_sales_booster.css</mask>
+      <mask>*.js</mask>
+      <mask>*p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>cs</mask>
       <mask>css</mask>
-      <mask>{*css</mask>
-      <mask>{*.css,</mask>
-      <mask>{*.css</mask>
-      <mask>{*.css|</mask>
-      <mask>{*.css|*</mask>
-      <mask>{*.css|*.</mask>
-      <mask>{*.css|*.s</mask>
-      <mask>{*.css|*.sc</mask>
-      <mask>{*.css|*.scs</mask>
-      <mask>{*.css|*.scss</mask>
-      <mask>{*.css|*.scss}</mask>
-      <mask>{*.css|*.scss})</mask>
-      <mask>{*.css|*.scss)</mask>
-      <mask>(*.css|*.scss)</mask>
-      <mask>*.css|*.scss)</mask>
-      <mask>*.css|*.scss</mask>
-      <mask>*.css*.scss</mask>
-      <mask>*.cs*.scss</mask>
-      <mask>*.c*.scss</mask>
-      <mask>*.*.scss</mask>
-      <mask>**.scss</mask>
-      <mask>*scss</mask>
-      <mask>*.scss</mask>
-      <mask>*.css</mask>
-      <mask>.css</mask>
-      <mask>.*css</mask>
+      <mask>p</mask>
+      <mask>php</mask>
+      <mask>.php</mask>
+      <mask>*.php</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.cs</mask>
       <mask>*css</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
