@@ -17,6 +17,9 @@
   <action id="ChangesView.ApplyPatch">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="ChangesView.NewChangeList">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
