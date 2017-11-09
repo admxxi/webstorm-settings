@@ -10,6 +10,7 @@
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60,60" />
     <option name="wallpaperSet" value="false" />
     <option name="compactSidebar" value="true" />
+    <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="28" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
