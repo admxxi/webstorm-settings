@@ -16,7 +16,6 @@
       <mask>custom_theme_sales_boos.css</mask>
       <mask>custom_theme_sales_booste.css</mask>
       <mask>custom_theme_sales_booster.css</mask>
-      <mask>*.js</mask>
       <mask>*p</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -34,6 +33,7 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
