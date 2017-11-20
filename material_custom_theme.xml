@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialCustomThemeConfig">
     <option name="treeSelectionColor" value="546e7a" />
-    <option name="highlightColor" value="4ed523" />
+    <option name="highlightColor" value="425b67" />
     <option name="secondBorderColor" value="2a373e" />
     <option name="contrastColor" value="1e272c" />
     <option name="secondaryBackgroundColor" value="32424a" />
