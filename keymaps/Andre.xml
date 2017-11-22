@@ -67,6 +67,9 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
+  <action id="FileChooser.ShowHiddens">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
