@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="61ed00" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isMaterialDesign" value="false" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="4" />
