@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>custom_t.css</mask>
       <mask>custom_theme.css</mask>
@@ -32,10 +33,10 @@
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
+      <mask>*.php</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
