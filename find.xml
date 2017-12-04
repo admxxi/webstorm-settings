@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>custom_t.css</mask>
       <mask>custom_theme.css</mask>
       <mask>custom_theme_.css</mask>
       <mask>custom_theme_sa.css</mask>
@@ -28,12 +27,13 @@
       <mask>*css</mask>
       <mask>*.css</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
