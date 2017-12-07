@@ -28,12 +28,12 @@
       <mask>*.css</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.sc</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
+      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
