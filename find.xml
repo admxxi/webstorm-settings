@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>custom_theme_.css</mask>
       <mask>custom_theme_sa.css</mask>
@@ -21,19 +22,19 @@
       <mask>p</mask>
       <mask>php</mask>
       <mask>.php</mask>
-      <mask>*.s</mask>
       <mask>*.cs</mask>
       <mask>*css</mask>
       <mask>*.css</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.j</mask>
-      <mask>*.ph</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
