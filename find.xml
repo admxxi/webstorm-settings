@@ -5,11 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>5</mask>
-      <mask>se</mask>
-      <mask>sec</mask>
-      <mask>secti</mask>
-      <mask>sectio</mask>
       <mask>section</mask>
       <mask>section_</mask>
       <mask>section_*</mask>
@@ -34,6 +29,11 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*oh</mask>
+      <mask>*o</mask>
+      <mask>*</mask>
+      <mask>*php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
