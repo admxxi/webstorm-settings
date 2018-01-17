@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*audience*.php" />
+    <option name="FILE_MASK" value="*target*.php" />
     <recentFileMasks>
-      <mask>*..</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.p</mask>
@@ -35,6 +31,10 @@
       <mask>*audie*.php</mask>
       <mask>*audien*.php</mask>
       <mask>*audience*.php</mask>
+      <mask>*t*.php</mask>
+      <mask>*tar*.php</mask>
+      <mask>*targe*.php</mask>
+      <mask>*target*.php</mask>
     </recentFileMasks>
   </component>
 </application>
