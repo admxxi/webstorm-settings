@@ -3,24 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*audience*.php" />
     <recentFileMasks>
-      <mask>section</mask>
-      <mask>section_</mask>
-      <mask>section_*</mask>
-      <mask>section*</mask>
-      <mask>new</mask>
-      <mask>newad</mask>
-      <mask>newadm</mask>
-      <mask>newadm*</mask>
-      <mask>scs</mask>
-      <mask>sc</mask>
-      <mask>s</mask>
-      <mask>.s</mask>
-      <mask>.scs</mask>
-      <mask>.scss</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*..</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
@@ -33,7 +17,24 @@
       <mask>*o</mask>
       <mask>*</mask>
       <mask>*php</mask>
+      <mask>se*.php</mask>
+      <mask>sec*.php</mask>
+      <mask>secti*.php</mask>
+      <mask>sectio*.php</mask>
+      <mask>section*.php</mask>
+      <mask>section_*.php</mask>
+      <mask>au*.php</mask>
+      <mask>a*.php</mask>
       <mask>*.php</mask>
+      <mask>**.php</mask>
+      <mask>*a*.php</mask>
+      <mask>*au*.php</mask>
+      <mask>*aud*.php</mask>
+      <mask>*audia*.php</mask>
+      <mask>*audi*.php</mask>
+      <mask>*audie*.php</mask>
+      <mask>*audien*.php</mask>
+      <mask>*audience*.php</mask>
     </recentFileMasks>
   </component>
 </application>
