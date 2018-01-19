@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="dashboard*" />
     <recentFileMasks>
-      <mask>section_*.php</mask>
-      <mask>au*.php</mask>
-      <mask>a*.php</mask>
-      <mask>**.php</mask>
-      <mask>*a*.php</mask>
-      <mask>*au*.php</mask>
       <mask>*aud*.php</mask>
       <mask>*audia*.php</mask>
       <mask>*audi*.php</mask>
@@ -35,6 +29,12 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>das</mask>
+      <mask>dash</mask>
+      <mask>dashbo</mask>
+      <mask>dashboar</mask>
+      <mask>dashboard</mask>
+      <mask>dashboard*</mask>
     </recentFileMasks>
   </component>
 </application>
