@@ -3,15 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*audi*.php</mask>
-      <mask>*audie*.php</mask>
-      <mask>*audien*.php</mask>
-      <mask>*audience*.php</mask>
-      <mask>*t*.php</mask>
-      <mask>*tar*.php</mask>
-      <mask>*targe*.php</mask>
       <mask>*target*.php</mask>
       <mask>.</mask>
       <mask>.js</mask>
@@ -35,6 +27,13 @@
       <mask>*.scss</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>h</mask>
+      <mask>hi</mask>
+      <mask>high</mask>
+      <mask>highch</mask>
+      <mask>highchar</mask>
+      <mask>highchart</mask>
+      <mask>highcharts</mask>
     </recentFileMasks>
   </component>
 </application>
