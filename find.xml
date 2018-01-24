@@ -3,11 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*target*.php</mask>
       <mask>.</mask>
       <mask>.js</mask>
-      <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.sccss</mask>
       <mask>*.js</mask>
@@ -26,7 +25,6 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>h</mask>
       <mask>hi</mask>
       <mask>high</mask>
@@ -34,6 +32,9 @@
       <mask>highchar</mask>
       <mask>highchart</mask>
       <mask>highcharts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
