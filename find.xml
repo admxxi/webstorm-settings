@@ -3,21 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="custom_inter*" />
     <recentFileMasks>
-      <mask>*.sccss</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>das</mask>
-      <mask>dash</mask>
-      <mask>dashbo</mask>
-      <mask>dashboar</mask>
-      <mask>dashboard</mask>
-      <mask>dashboard*</mask>
-      <mask>p</mask>
       <mask>php</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.p</mask>
       <mask>h</mask>
       <mask>hi</mask>
@@ -35,6 +23,18 @@
       <mask>*.scssp</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>c</mask>
+      <mask>cus</mask>
+      <mask>custo</mask>
+      <mask>custom*</mask>
+      <mask>custom</mask>
+      <mask>custom_</mask>
+      <mask>custom_i</mask>
+      <mask>custom_inte</mask>
+      <mask>custom_inter</mask>
+      <mask>custom_inter*</mask>
     </recentFileMasks>
   </component>
 </application>
