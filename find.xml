@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>php</mask>
       <mask>*.p</mask>
@@ -19,7 +20,6 @@
       <mask>*.scsp</mask>
       <mask>*.scssp</mask>
       <mask>*.php</mask>
-      <mask>*.cs</mask>
       <mask>c</mask>
       <mask>cus</mask>
       <mask>custo</mask>
@@ -32,8 +32,9 @@
       <mask>custom_inter*</mask>
       <mask>*</mask>
       <mask>*.sc</mask>
-      <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
