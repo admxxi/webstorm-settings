@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>hi</mask>
       <mask>high</mask>
@@ -32,10 +33,10 @@
       <mask>*.p</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.php</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
