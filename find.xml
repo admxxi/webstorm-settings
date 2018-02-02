@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>custo</mask>
-      <mask>custom*</mask>
       <mask>custom</mask>
       <mask>custom_</mask>
       <mask>custom_i</mask>
@@ -13,9 +11,6 @@
       <mask>custom_inter</mask>
       <mask>custom_inter*</mask>
       <mask>*.c</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*css</mask>
       <mask>*.*</mask>
       <mask>*.*.</mask>
@@ -27,13 +22,18 @@
       <mask>*.pc</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>sc</mask>
+      <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
