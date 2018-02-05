@@ -1,41 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="2.2" />
+    <option name="defaultScopeName" value="2.2" />
+    <option name="SEARCH_SCOPE" value="2.2" />
     <recentFileMasks>
-      <mask>hi</mask>
-      <mask>high</mask>
-      <mask>highch</mask>
-      <mask>highchar</mask>
-      <mask>highchart</mask>
-      <mask>highcharts</mask>
-      <mask>*.scp</mask>
-      <mask>*.scsp</mask>
-      <mask>*.scssp</mask>
-      <mask>c</mask>
-      <mask>cus</mask>
-      <mask>custo</mask>
-      <mask>custom*</mask>
-      <mask>custom</mask>
       <mask>custom_</mask>
       <mask>custom_i</mask>
       <mask>custom_inte</mask>
       <mask>custom_inter</mask>
       <mask>custom_inter*</mask>
-      <mask>*</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.php</mask>
+      <mask>*css</mask>
+      <mask>*.*</mask>
+      <mask>*.*.</mask>
+      <mask>*.*.p</mask>
+      <mask>*.*.php</mask>
+      <mask>**.php</mask>
+      <mask>*.pcss</mask>
+      <mask>*.pcs</mask>
+      <mask>*.pc</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.ph</mask>
+      <mask>sc</mask>
+      <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
