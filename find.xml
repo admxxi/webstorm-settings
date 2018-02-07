@@ -3,6 +3,7 @@
     <option name="customScope" value="2.2" />
     <option name="defaultScopeName" value="2.2" />
     <option name="SEARCH_SCOPE" value="2.2" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>custom_</mask>
       <mask>custom_i</mask>
@@ -30,10 +31,10 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.s</mask>
-      <mask>*.php</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
