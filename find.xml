@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="2.2" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>custom_i</mask>
       <mask>custom_inte</mask>
@@ -27,15 +28,15 @@
       <mask>s</mask>
       <mask>*.j</mask>
       <mask>*.p</mask>
-      <mask>*.sc</mask>
       <mask>*.</mask>
       <mask>.</mask>
       <mask>*</mask>
       <mask>*.s</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
