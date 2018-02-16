@@ -5,7 +5,9 @@
       <mapping pattern="ads-css.css" type="CSS" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="adasdasd" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_dev" type="PLAIN_TEXT" />
+      <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="clientScript.php" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_live" type="PLAIN_TEXT" />
       <mapping pattern="notpush.php" type="PLAIN_TEXT" />
