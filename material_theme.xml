@@ -8,9 +8,10 @@
     <option name="customTreeIndent" value="4" />
     <option name="accentColor" value="78cbee" />
     <option name="compactSidebar" value="true" />
+    <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="28" />
+    <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="darkTitleBar" value="true" />
   </component>
 </application>
