@@ -1,7 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
-    <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="61ed00" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
@@ -13,6 +11,5 @@
     <option name="tabsHeight" value="28" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
   </component>
 </application>
