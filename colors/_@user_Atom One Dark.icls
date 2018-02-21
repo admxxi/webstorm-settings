@@ -4,29 +4,30 @@
     <property name="created">2017-11-14T09:54:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2018-02-20T20:00:42</property>
+    <property name="modified">2018-02-21T08:34:41</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="11" />
-  <option name="CONSOLE_LINE_SPACING" value="0.8" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="0.75" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="98c379" />
+    <option name="ADDED_LINES_COLOR" value="58ff34" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="557ecf" />
     <option name="CARET_ROW_COLOR" value="2c323c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
-    <option name="DELETED_LINES_COLOR" value="f07178" />
+    <option name="DELETED_LINES_COLOR" value="f01e1f" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="282c34" />
@@ -51,7 +52,7 @@
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
-    <option name="MODIFIED_LINES_COLOR" value="e5c17c" />
+    <option name="MODIFIED_LINES_COLOR" value="ffe71e" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
