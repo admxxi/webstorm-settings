@@ -8,6 +8,6 @@
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="ide.tooltip.initialDelay" value="153" />
     <entry key="tabs.alphabetical" value="true" />
-    <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="ide.editor.tabs.open.at.the.end" value="true" />
   </component>
 </application>
