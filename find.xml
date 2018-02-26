@@ -29,11 +29,11 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.j</mask>
-      <mask>*.css</mask>
       <mask>agency.css</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
