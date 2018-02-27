@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>custom_inte</mask>
       <mask>custom_inter</mask>
@@ -34,8 +35,8 @@
       <mask>agency.css</mask>
       <mask>*.js</mask>
       <mask>*.css</mask>
-      <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
