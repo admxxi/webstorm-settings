@@ -34,8 +34,8 @@
       <mask>agency.css</mask>
       <mask>*.js</mask>
       <mask>*.css</mask>
-      <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
