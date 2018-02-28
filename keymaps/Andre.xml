@@ -79,6 +79,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="HideActiveWindow">
+    <mouse-shortcut keystroke="button2 doubleClick" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta alt equals" />
   </action>
