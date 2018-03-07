@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
-      <mask>custom_inte</mask>
       <mask>custom_inter</mask>
       <mask>custom_inter*</mask>
       <mask>*.c</mask>
@@ -34,6 +34,7 @@
       <mask>*.css</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
