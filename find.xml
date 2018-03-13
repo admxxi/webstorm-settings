@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../adm/pluginAdm_fundomusicalv2.php - [sitescomemorativos]'" />
-    <option name="defaultScopeName" value="File '.../adm/pluginAdm_fundomusicalv2.php - [sitescomemorativos]'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../adm/pluginAdm_fundomusicalv2.php - [sitescomemorativos]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>custom_inte</mask>
       <mask>custom_inter</mask>
       <mask>custom_inter*</mask>
       <mask>*.c</mask>
@@ -32,10 +29,11 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.j</mask>
-      <mask>*.css</mask>
       <mask>agency.css</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
+      <mask>*.sass</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
