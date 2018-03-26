@@ -32,8 +32,8 @@
       <mask>*.css</mask>
       <mask>*.sass</mask>
       <mask>*.html</mask>
-      <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
