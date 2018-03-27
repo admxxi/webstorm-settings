@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>custom_inter*</mask>
       <mask>*.c</mask>
@@ -28,12 +29,12 @@
       <mask>*.scs</mask>
       <mask>*.j</mask>
       <mask>agency.css</mask>
-      <mask>*.js</mask>
       <mask>*.css</mask>
       <mask>*.sass</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
