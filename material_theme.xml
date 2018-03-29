@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="1.6.1" />
     <option name="highlightColor" value="61ed00" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="1" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="3" />
@@ -12,5 +14,6 @@
     <option name="tabsHeight" value="28" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="customSidebarHeight" value="22" />
   </component>
 </application>
