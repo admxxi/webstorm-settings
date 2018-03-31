@@ -1,8 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Fira Code" />
-    <option name="LINE_SPACING" value="1.1" />
+    <option name="LINE_SPACING" value="1.2" />
     <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
   </component>
   <component name="EditorSettings">
@@ -18,9 +18,6 @@
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
-  </component>
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
