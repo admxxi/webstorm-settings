@@ -117,7 +117,7 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl meta space" />
+    <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <mouse-shortcut keystroke="meta button2" />
