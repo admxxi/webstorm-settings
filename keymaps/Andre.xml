@@ -32,6 +32,7 @@
   <action id="Database.OpenDbStorageAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Debug" />
   <action id="Diff.SelectedChange" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -43,6 +44,7 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
