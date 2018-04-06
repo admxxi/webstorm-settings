@@ -96,6 +96,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Macro.Format and Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -115,6 +118,10 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="SaveAll" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
