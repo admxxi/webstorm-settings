@@ -5,6 +5,7 @@
     <option name="highlightColor" value="c6ff00" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
+    <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="3" />
     <option name="accentColor" value="c6ff00" />
