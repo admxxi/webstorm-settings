@@ -3,12 +3,13 @@
     <option name="treeSelectionColor" value="c6ff00" />
     <option name="highlightColor" value="425b67" />
     <option name="secondBorderColor" value="2a373e" />
+    <option name="tableSelectedColor" value="c6ff00" />
     <option name="contrastColor" value="1e272c" />
-    <option name="secondaryBackgroundColor" value="32424a" />
-    <option name="buttonColor" value="2e3c43" />
-    <option name="selectionForegroundColor" value="ffffff" />
-    <option name="selectionBackgroundColor" value="546e7a" />
-    <option name="textColor" value="607d8b" />
+    <option name="secondaryBackgroundColor" value="c6ff00" />
+    <option name="buttonColor" value="c6ff00" />
+    <option name="selectionForegroundColor" value="c6ff00" />
+    <option name="selectionBackgroundColor" value="c6ff00" />
+    <option name="textColor" value="c6ff00" />
     <option name="foregroundColor" value="b0bec5" />
   </component>
 </application>
