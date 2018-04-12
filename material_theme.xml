@@ -5,17 +5,18 @@
     <option name="highlightColor" value="c6ff00" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
-    <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="3" />
     <option name="accentColor" value="c6ff00" />
+    <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
-    <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="26" />
+    <option name="tabsHeight" value="22" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="customSidebarHeight" value="28" />
+    <option name="tabOpacity" value="48" />
     <option name="compactDropdowns" value="true" />
+    <option name="monochromeIcons" value="true" />
   </component>
 </application>
