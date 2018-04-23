@@ -16,8 +16,8 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="customSidebarHeight" value="24" />
+    <option name="useMaterialFont" value="false" />
     <option name="tabOpacity" value="48" />
     <option name="compactDropdowns" value="true" />
-    <option name="monochromeIcons" value="true" />
   </component>
 </application>
