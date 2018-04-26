@@ -9,10 +9,6 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="escape" />
-  </action>
   <action id="ChangesView.ApplyPatch">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
