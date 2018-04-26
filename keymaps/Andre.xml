@@ -9,6 +9,10 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
   <action id="ChangesView.ApplyPatch">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
@@ -46,6 +50,7 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorEscape" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
