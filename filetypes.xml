@@ -6,12 +6,12 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".htaccess_live" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_dev" type="PLAIN_TEXT" />
       <mapping pattern="asdadas" type="PLAIN_TEXT" />
       <mapping pattern="ssadadsadas" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="clientScript.php" type="PLAIN_TEXT" />
       <mapping pattern="adasdasd" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess_dev" type="PLAIN_TEXT" />
       <mapping pattern="notpush.php" type="PLAIN_TEXT" />
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="error_log" type="PLAIN_TEXT" />
       <mapping ext="access_log" type="PLAIN_TEXT" />
+      <mapping pattern=".tsconfig" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
