@@ -127,6 +127,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
