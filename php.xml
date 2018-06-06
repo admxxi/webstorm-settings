@@ -1,7 +1,7 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration max_messages_per_file="25" tool_path="/usr/local/bin/phpmd" />
+      <MessDetectorConfiguration max_messages_per_file="25" timeout="8000" tool_path="/usr/local/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpInterpreters">
