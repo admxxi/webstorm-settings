@@ -13,8 +13,8 @@
     <mask>*.vue</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
