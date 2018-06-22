@@ -31,9 +31,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta minus" />
-  </action>
+  <action id="CollapseRegion" />
   <action id="Database.OpenDbStorageAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -63,19 +61,23 @@
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
     <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="ExpandAllToLevel2">
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
+  <action id="ExpandRegion" />
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
@@ -85,6 +87,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="GotoBookmark2" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -113,6 +116,9 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="alt d" />
