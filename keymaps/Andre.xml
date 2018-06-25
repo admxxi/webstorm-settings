@@ -126,6 +126,12 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="Quokka.RunQuokkaOnFile">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Quokka.StopQuokkaOnFile">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
