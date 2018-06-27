@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpDocMissingReturnTagInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpDocMissingThrowsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpDocRedundantThrowsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
