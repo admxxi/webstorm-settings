@@ -19,5 +19,6 @@
     <mask>*.scss</mask>
     <mask>application.js</mask>
     <mask>*.php</mask>
+    <mask>controller*</mask>
   </component>
 </application>
