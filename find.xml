@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="customer*" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,12 +17,12 @@
     <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>application.js</mask>
     <mask>controller*</mask>
     <mask>client*</mask>
     <mask>*.php</mask>
     <mask>clientside</mask>
     <mask>customer*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
