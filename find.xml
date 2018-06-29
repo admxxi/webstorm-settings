@@ -15,7 +15,6 @@
     <mask>*.vue</mask>
     <mask>*.sql</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>application.js</mask>
     <mask>controller*</mask>
     <mask>client*</mask>
@@ -23,5 +22,6 @@
     <mask>customer*</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
