@@ -4,7 +4,6 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="c6ff00" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="1" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="c6ff00" />
@@ -13,7 +12,6 @@
     <option name="tabsHeight" value="24" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="upperCaseTabs" value="true" />
     <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="100" />
     <option name="compactDropdowns" value="true" />
