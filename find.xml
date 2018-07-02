@@ -3,6 +3,7 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,9 +18,9 @@
     <mask>client*</mask>
     <mask>clientside</mask>
     <mask>customer*</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
