@@ -6,6 +6,7 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="leftTreeIndent" value="2" />
     <option name="accentColor" value="c6ff00" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
@@ -16,8 +17,11 @@
     <option name="tabOpacity" value="100" />
     <option name="compactDropdowns" value="true" />
     <option name="upperCaseButtons" value="false" />
+    <option name="treeFontSize" value="13" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="-6af4b7dc:1640419b24e:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
   </component>
 </application>
