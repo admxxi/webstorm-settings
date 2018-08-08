@@ -104,6 +104,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Macro.Format &amp; Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
