@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -18,10 +18,10 @@
     <mask>clientside</mask>
     <mask>customer*</mask>
     <mask>*.js</mask>
-    <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>ads-css.*</mask>
     <mask>*.vue</mask>
+    <mask>*.css</mask>
     <mask>*.php</mask>
   </component>
 </application>
