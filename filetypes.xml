@@ -5,7 +5,6 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="error_log" type="Log" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
-      <mapping pattern="quokka.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
