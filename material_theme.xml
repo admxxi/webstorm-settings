@@ -1,13 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.8.3" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="highlightColor" value="c6ff00" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="leftTreeIndent" value="4" />
-    <option name="accentColor" value="c6ff00" />
+    <option name="accentColor" value="009688" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="24" />
