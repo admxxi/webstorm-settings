@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.8.3" />
-    <option name="selectedTheme" value="LIGHTER" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="c6ff00" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
