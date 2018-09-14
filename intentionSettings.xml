@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Convert color to RGB/RGBA" />
+    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
+    <ignoreAction name="CSS/Change color" />
+    <ignoreAction name="CSS/Convert color to HWB" />
+  </component>
+</application>
