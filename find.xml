@@ -19,9 +19,9 @@
     <mask>customer*</mask>
     <mask>ads-css.*</mask>
     <mask>*.vue</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
     <mask>*.scss</mask>
   </component>
 </application>
