@@ -5,14 +5,14 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="leftTreeIndent" value="2" />
+    <option name="rightTreeIndent" value="6" />
     <option name="accentColor" value="7cb342" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="24" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="customSidebarHeight" value="22" />
+    <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="100" />
     <option name="compactDropdowns" value="true" />
     <option name="upperCaseButtons" value="false" />
