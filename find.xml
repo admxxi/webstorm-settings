@@ -21,8 +21,8 @@
     <mask>ads-css.*</mask>
     <mask>*.vue</mask>
     <mask>*.css</mask>
-    <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
