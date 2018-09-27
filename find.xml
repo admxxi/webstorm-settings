@@ -24,6 +24,5 @@
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>custom_inter*</mask>
   </component>
 </application>

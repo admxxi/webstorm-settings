@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="ESLint auto-fix" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/Dev/cct-app/node_modules/eslint/bin/eslint.js" />
-      <option name="PARAMETERS" value="--ext .js,.vue --fix $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-</toolSet>
