@@ -20,9 +20,7 @@
   <action id="ChangesView.NewChangeList">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="meta space" />
-  </action>
+  <action id="ChangesView.SetDefault" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -159,7 +157,7 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="meta alt space" />
+    <keyboard-shortcut first-keystroke="ctrl meta space" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <mouse-shortcut keystroke="meta button2" />
