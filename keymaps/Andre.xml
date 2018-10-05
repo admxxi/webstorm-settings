@@ -12,6 +12,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta escape" />
+    <keyboard-shortcut first-keystroke="#10000a7" />
   </action>
   <action id="ChangesView.ApplyPatch">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
