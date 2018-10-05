@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.0-pre1" />
+    <option name="version" value="2.8.3" />
     <option name="highlightColor" value="c6ff00" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="rightTreeIndent" value="6" />
     <option name="accentColor" value="7cb342" />
