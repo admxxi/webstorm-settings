@@ -1,3 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="CARET_BLINKING_PERIOD" value="1000" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+  </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
 </application>
