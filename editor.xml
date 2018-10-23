@@ -26,6 +26,6 @@
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
-    <option name="tagTreeHighlightingOpacity" value="20" />
+    <option name="tagTreeHighlightingOpacity" value="15" />
   </component>
 </application>
