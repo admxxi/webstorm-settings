@@ -17,6 +17,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="IS_CARET_BLINKING" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="1000" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
