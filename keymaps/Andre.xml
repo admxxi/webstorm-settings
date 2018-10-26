@@ -30,7 +30,9 @@
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
-  <action id="CollapseRegion" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="Database.OpenDbStorageAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -60,23 +62,19 @@
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
     <keyboard-shortcut first-keystroke="shift meta minus" />
-    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="ExpandAllToLevel2">
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
-  <action id="ExpandAllToLevel3">
-    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
-    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
-  <action id="ExpandRegion" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
