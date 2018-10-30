@@ -20,6 +20,10 @@
   <action id="ChangesView.NewChangeList">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="meta alt z" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="ChangesView.SetDefault" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -104,6 +108,7 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
+  <action id="Jdbc.RunSqlScript" />
   <action id="Macro.Format &amp; Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -151,6 +156,8 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="alt f11" />
     <keyboard-shortcut first-keystroke="f10" />
