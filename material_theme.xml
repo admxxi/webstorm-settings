@@ -1,25 +1,26 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.6.4" />
-    <option name="highlightColor" value="c6ff00" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="rightTreeIndent" value="6" />
-    <option name="accentColor" value="7cb342" />
+    <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="24" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="customSidebarHeight" value="20" />
-    <option name="tabOpacity" value="100" />
-    <option name="compactDropdowns" value="true" />
-    <option name="upperCaseButtons" value="false" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="userId" value="-6af4b7dc:1640419b24e:-7fff" />
-    <option name="allowDataCollection" value="true" />
-    <option name="treeFontSizeEnabled" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="tabOpacity" value="100" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="7cb342" />
+    <option name="highlightColor" value="c6ff00" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-6af4b7dc:1640419b24e:-7fff" />
+    <option name="version" value="3.0.0-pre4" />
   </component>
 </application>
