@@ -20,13 +20,12 @@
     <option name="indicatorStyle" value="Dot" />
     <option name="customSidebarHeight" value="22" />
     <option name="tabOpacity" value="86" />
-    <option name="treeFontSize" value="13" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="23" />
-    <option name="accentColor" value="42a5f5" />
+    <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="c6ff00" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-6af4b7dc:1640419b24e:-7fff" />
     <option name="version" value="3.5.0.1" />
     <option name="tabHighlightPosition" value="Bottom" />
