@@ -6,6 +6,7 @@
       <mapping ext="cshtml" type="HTML" />
       <mapping ext="woff2" type="Native" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
+      <mapping pattern="PreviewFacebook.vue" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
