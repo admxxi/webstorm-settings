@@ -3,6 +3,7 @@
     <option name="customScope" value="MISC-320" />
     <option name="defaultScopeName" value="MISC-320" />
     <option name="SEARCH_SCOPE" value="MISC-320" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,11 +20,11 @@
     <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*_app*</mask>
-    <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>store*</mask>
     <mask>CampaignForm*</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
