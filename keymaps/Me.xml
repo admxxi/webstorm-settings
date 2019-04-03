@@ -11,8 +11,13 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="Macro.Format &amp; Eslint &amp; Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Macro.Format &amp; Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="SaveAll" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
