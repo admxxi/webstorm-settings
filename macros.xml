@@ -4,8 +4,7 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
-    <macro name="Format &amp; Eslint &amp; Save">
-      <action id="ReformatCode" />
+    <macro name="Eslint &amp; Save">
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />
     </macro>
