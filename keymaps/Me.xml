@@ -44,6 +44,12 @@
   <action id="Macro.Format &amp; Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
