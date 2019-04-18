@@ -2,8 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="useMaterialIcons" value="false" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-6af4b7dc:1640419b24e:-7fff" />
     <option name="version" value="3.9.1" />
