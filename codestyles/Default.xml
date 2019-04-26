@@ -3,6 +3,7 @@
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
     <option name="HTML_QUOTE_STYLE" value="Single" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="1">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
