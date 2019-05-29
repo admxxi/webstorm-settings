@@ -20,10 +20,10 @@
     <mask>*_app*</mask>
     <mask>store*</mask>
     <mask>CampaignForm*</mask>
-    <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
