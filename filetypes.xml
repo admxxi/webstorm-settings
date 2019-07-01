@@ -10,9 +10,8 @@
       <mapping ext="woff2" type="Native" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <removed_mapping ext="scss" type="SCSS" />
+      <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="PreviewFacebook.vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
     </extensionMap>
