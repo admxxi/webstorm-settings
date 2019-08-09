@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CW-1035 Moving frozen object inside the component data" />
-    <option name="defaultScopeName" value="CW-1035 Moving frozen object inside the component data" />
-    <option name="SEARCH_SCOPE" value="CW-1035 Moving frozen object inside the component data" />
+    <option name="customScope" value="File '.../src/components/campaign/widgets/location_targeting_no_industry_address.vue [app]'" />
+    <option name="defaultScopeName" value="File '.../src/components/campaign/widgets/location_targeting_no_industry_address.vue [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/components/campaign/widgets/location_targeting_no_industry_address.vue [app]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
