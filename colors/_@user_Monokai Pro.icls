@@ -4,15 +4,21 @@
     <property name="created">2019-04-15T11:34:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-27T15:36:04</property>
+    <property name="modified">2019-09-09T23:33:19</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
@@ -30,6 +36,9 @@
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
@@ -43,6 +52,7 @@
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
     <option name="GUTTER_BACKGROUND" value="2d2a2e" />
     <option name="INDENT_GUIDE" value="403e41" />
@@ -64,29 +74,29 @@
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SEPARATOR_BELOW_COLOR" value="403e41" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ffd866" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ffd866" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ffd866c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ffd866c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="2d2a2e" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ffd866" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ffd866" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ffd86680" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ffd86680" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="2d2a2e" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ffd866" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ffd866" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="2d2a2e" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="ffd866" />
-    <option name="ScrollBar.Mac.thumbColor" value="ffd866" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="ffd866c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ffd866c0" />
     <option name="ScrollBar.Mac.trackColor" value="2d2a2e" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ffd866" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="ffd866" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ffd866c0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ffd866c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="2d2a2e" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="ffd866" />
-    <option name="ScrollBar.Transparent.thumbColor" value="ffd866" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="ffd86680" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ffd86680" />
     <option name="ScrollBar.Transparent.trackColor" value="2d2a2e" />
     <option name="ScrollBar.hoverThumbBorderColor" value="ffd866" />
     <option name="ScrollBar.hoverThumbColor" value="ffd866" />
     <option name="ScrollBar.hoverTrackColor" value="2d2a2e" />
-    <option name="ScrollBar.thumbBorderColor" value="ffd866" />
-    <option name="ScrollBar.thumbColor" value="ffd866" />
+    <option name="ScrollBar.thumbBorderColor" value="ffd866c0" />
+    <option name="ScrollBar.thumbColor" value="ffd866c0" />
     <option name="ScrollBar.trackColor" value="2d2a2e" />
     <option name="TEARLINE_COLOR" value="403e41" />
     <option name="TOOLTIP" value="2d2a2e" />
@@ -134,7 +144,7 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
@@ -751,15 +761,9 @@
       </value>
     </option>
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="GO_BUILTIN_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="ab9df2" />
-      </value>
-    </option>
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="fc9867" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_METHOD_RECEIVER">
@@ -1000,11 +1004,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.NULL_UNDEFINED">
       <value>
         <option name="FOREGROUND" value="ab9df2" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
@@ -1024,6 +1033,11 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="403e41" />
+      </value>
+    </option>
     <option name="KOTLIN_ARROW">
       <value>
         <option name="FOREGROUND" value="ff6188" />
@@ -2449,8 +2463,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="727072" />
-        <option name="EFFECT_COLOR" value="727072" />
+        <option name="FOREGROUND" value="5b595c" />
+        <option name="EFFECT_COLOR" value="5b595c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
