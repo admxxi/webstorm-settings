@@ -1,10 +1,18 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/google-maps" type="javaScript">
+    <library name="@types/es6-collections" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/i18n" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
     <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/string" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
