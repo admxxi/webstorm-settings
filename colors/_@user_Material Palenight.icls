@@ -4,16 +4,16 @@
     <property name="created">2019-04-02T10:15:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-09-19T13:40:48</property>
+    <property name="modified">2019-09-23T10:02:43</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.25" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_NAME" value="Fira Mono" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
