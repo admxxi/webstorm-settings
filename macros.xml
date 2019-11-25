@@ -1,9 +1,5 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Format &amp; Save">
-      <action id="ReformatCode" />
-      <action id="SaveAll" />
-    </macro>
     <macro name="Eslint &amp; Save">
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />

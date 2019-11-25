@@ -63,9 +63,6 @@
   <action id="Macro.Eslint &amp; Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="Macro.Format &amp; Save">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
