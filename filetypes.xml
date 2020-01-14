@@ -9,10 +9,11 @@
       <mapping pattern="httpAxios" type="JavaScript" />
       <mapping ext="spec" type="JavaScript" />
       <mapping ext="woff2" type="Native" />
-      <mapping pattern=".git-pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
+      <mapping pattern=".git-pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="Shell Script" />
       <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
       <removed_mapping pattern="PreviewFacebook.vue" approved="true" type="PLAIN_TEXT" />
