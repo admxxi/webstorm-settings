@@ -2,7 +2,8 @@
   <component name="ActionMacroManager">
     <macro name="Format &amp; Save">
       <action id="ReformatCode" />
-      <shortuct text="meta S" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
     </macro>
   </component>
 </application>
