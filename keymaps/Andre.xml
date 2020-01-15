@@ -130,6 +130,9 @@
   <action id="Macro.Format &amp; Eslint &amp; Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Macro.Format &amp; Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
