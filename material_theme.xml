@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="false" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -16,10 +15,10 @@
     <option name="customSidebarHeight" value="22" />
     <option name="rightTreeIndent" value="6" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="22e909" />
+    <option name="accentColor" value="ab47bc" />
     <option name="highlightColor" value="22e909" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-6af4b7dc:1640419b24e:-7fff" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
