@@ -3,8 +3,6 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="cshtml" type="HTML" />
       <mapping pattern="httpAxios" type="JavaScript" />
       <mapping ext="spec" type="JavaScript" />
