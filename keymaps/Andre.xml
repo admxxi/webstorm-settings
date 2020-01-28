@@ -75,7 +75,7 @@
   <action id="ExpandAllToLevel3">
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
-    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="shift alt 3" />
   </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
