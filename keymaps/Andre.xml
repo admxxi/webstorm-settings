@@ -201,7 +201,6 @@
     <keyboard-shortcut first-keystroke="alt f11" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
-  <action id="SaveAll" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
