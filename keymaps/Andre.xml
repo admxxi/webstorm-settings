@@ -100,7 +100,7 @@
   </action>
   <action id="ExpandToLevel5">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad5" />
-    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="FileChooser.ShowHiddens">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
