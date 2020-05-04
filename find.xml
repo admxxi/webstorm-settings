@@ -3,27 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>application.js</mask>
-    <mask>controller*</mask>
-    <mask>client*</mask>
-    <mask>clientside</mask>
-    <mask>customer*</mask>
-    <mask>ads-css.*</mask>
-    <mask>*_app*</mask>
-    <mask>store*</mask>
-    <mask>CampaignForm*</mask>
-    <mask>*.js</mask>
-    <mask>*.sql</mask>
-    <mask>*.vue</mask>
-    <mask>*.scss</mask>
-    <mask>*.php</mask>
-    <mask>*.css</mask>
   </component>
 </application>
