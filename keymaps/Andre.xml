@@ -94,10 +94,7 @@
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad1" />
   </action>
   <action id="ExpandToLevel2">
-    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="2" />
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad2" />
-    <keyboard-shortcut first-keystroke="alt q" />
-    <keyboard-shortcut first-keystroke="shift at" />
   </action>
   <action id="ExpandToLevel3">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad3" />
