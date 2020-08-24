@@ -16,5 +16,6 @@
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.scss</mask>
+    <mask>ads-css.css</mask>
   </component>
 </application>
