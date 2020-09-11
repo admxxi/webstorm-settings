@@ -43,6 +43,12 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Debug" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="Diff.SelectedChange" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
