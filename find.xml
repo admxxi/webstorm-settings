@@ -17,5 +17,6 @@
     <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>ads-css.css</mask>
+    <mask>*.xlf</mask>
   </component>
 </application>
