@@ -63,9 +63,6 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
-  </action>
   <action id="EmojiAndSymbols" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta alt equals" />
@@ -137,6 +134,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="IncrementWindowWidth" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
@@ -195,6 +193,7 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="ResizeToolWindowRight" />
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
   <action id="RunJsbtTask">
