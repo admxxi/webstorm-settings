@@ -4,7 +4,7 @@
     <option name="jumpOnMouseDown" value="false" />
     <option name="locked" value="true" />
     <option name="minWindowWidth" value="60" />
-    <option name="pixelsPerLine" value="2" />
+    <option name="pixelsPerLine" value="4" />
     <option name="width" value="40" />
   </component>
 </application>
