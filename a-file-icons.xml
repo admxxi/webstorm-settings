@@ -4,5 +4,6 @@
     <option name="isEnabledIcons" value="false" />
     <option name="monochromeColor" value="546e7a" />
     <option name="accentColor" value="5bd022" />
+    <option name="themedColor" value="d7dae0" />
   </component>
 </application>
