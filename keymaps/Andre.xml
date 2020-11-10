@@ -159,8 +159,8 @@
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="NextWindow">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
