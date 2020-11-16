@@ -4,6 +4,9 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="[DB-247]" />
+    <option name="defaultScopeName" value="[DB-247]" />
+    <option name="SEARCH_SCOPE" value="[DB-247]" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
