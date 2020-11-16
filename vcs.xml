@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="admxxi@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="am@cct-technology.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
