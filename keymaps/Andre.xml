@@ -159,8 +159,8 @@
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="NextWindow">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
@@ -182,9 +182,7 @@
   <action id="Quokka.StopQuokkaOnFile">
     <keyboard-shortcut first-keystroke="shift q" />
   </action>
-  <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
@@ -215,6 +213,13 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl meta space" />
   </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleDistractionFreeMode">
     <mouse-shortcut keystroke="meta button2" />
   </action>
@@ -232,6 +237,9 @@
   <action id="Vcs.RollbackChangedLines">
     <keyboard-shortcut first-keystroke="meta alt z" />
     <keyboard-shortcut first-keystroke="ctrl alt z" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
