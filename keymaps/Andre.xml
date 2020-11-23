@@ -35,12 +35,16 @@
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="CollapseAllRegions" />
+  <action id="CollapseBlock" />
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
   <action id="Database.OpenDbStorageAction">
     <keyboard-shortcut first-keystroke="f4" />
@@ -70,22 +74,35 @@
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta alt equals" />
   </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
   <action id="ExpandAllToLevel2">
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
     <keyboard-shortcut first-keystroke="alt dead_abovedot" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
   <action id="ExpandAllToLevel3">
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
     <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
+    <keyboard-shortcut first-keystroke="3" />
   </action>
   <action id="ExpandAllToLevel4">
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="4" />
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad4" />
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="meta alt 4" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="meta alt 5" />
   </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
