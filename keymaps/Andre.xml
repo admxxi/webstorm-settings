@@ -91,7 +91,7 @@
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
     <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
-    <keyboard-shortcut first-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta alt 3" />
   </action>
   <action id="ExpandAllToLevel4">
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="4" />
