@@ -23,5 +23,6 @@
     <mask>widget.vu</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
+    <mask>ads-css*</mask>
   </component>
 </application>
