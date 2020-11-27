@@ -4,11 +4,11 @@
     <property name="created">2018-11-27T08:36:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-11-27T09:18:08</property>
+    <property name="modified">2020-11-27T10:38:55</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
@@ -778,6 +778,11 @@
     <option name="KOTLIN_ENUM_ENTRY">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
