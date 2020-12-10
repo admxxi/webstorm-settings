@@ -10,7 +10,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:Editor Theme" />
           <option name="name" value="changeEditorTheme" />
-          <option name="value" value="false" />
+          <option name="value" value="true" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="__root__group__" />
@@ -30,7 +30,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
           <option name="name" value="darkTheme" />
-          <option name="value" value="com.intellij.ide.ui.laf.darcula.DarculaLaf Atom One Dark" />
+          <option name="value" value="com.intellij.ide.ui.laf.darcula.DarculaLaf vuesion-theme" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:Other" />
@@ -40,12 +40,12 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme" />
           <option name="name" value="changeIdeTheme" />
-          <option name="value" value="false" />
+          <option name="value" value="true" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
           <option name="name" value="lightTheme" />
-          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf GitHub" />
+          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf Mac Native Light" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
