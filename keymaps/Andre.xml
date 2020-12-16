@@ -80,9 +80,9 @@
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
-  <action id="ExpandAllToLevel2">
-    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
-    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id="ExpandExpandableComponent">
