@@ -41,6 +41,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
@@ -50,6 +51,9 @@
   </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseOneLineFunctions" value="true" />
+  </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
