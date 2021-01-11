@@ -10,7 +10,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:Editor Theme" />
           <option name="name" value="changeEditorTheme" />
-          <option name="value" value="true" />
+          <option name="value" value="false" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="__root__group__" />
