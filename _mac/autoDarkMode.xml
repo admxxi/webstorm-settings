@@ -40,7 +40,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme" />
           <option name="name" value="changeIdeTheme" />
-          <option name="value" value="true" />
+          <option name="value" value="false" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
