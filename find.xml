@@ -13,12 +13,12 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.php</mask>
     <mask>ads-css.css</mask>
     <mask>*.xlf</mask>
     <mask>widget.vu</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>ads-css*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
