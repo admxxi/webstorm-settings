@@ -1,8 +1,6 @@
 <application>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_METHODS" value="true" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
   <component name="CodeInsightSettings">
@@ -50,7 +48,8 @@
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JSCodeFoldingSettings">
-    <option name="collapseOneLineFunctions" value="true" />
+    <option name="collapseXmlLiterals" value="true" />
+    <option name="COLLAPSE_XML_LITERALS" value="true" />
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
