@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="SQL" />
       <mapping pattern=".env.prod" type="Shell Script" />
       <mapping pattern="artisan" type="Shell Script" />
       <removed_mapping ext="py" approved="true" type="Python" />
