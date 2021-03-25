@@ -4,13 +4,15 @@
     <property name="created">2021-02-19T13:51:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2021-02-19T13:52:54</property>
+    <property name="modified">2021-03-25T17:41:43</property>
     <property name="originalScheme">GitHub 3</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="LINE_SPACING" value="1.15" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fffbdd" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
