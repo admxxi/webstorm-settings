@@ -144,6 +144,9 @@
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
   <action id="Jdbc.RunSqlScript" />
+  <action id="Macro.Format &amp; Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -203,7 +206,6 @@
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f" />
