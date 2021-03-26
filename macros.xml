@@ -4,5 +4,9 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Reformat + EslintFix">
+      <action id="ReformatCode" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+    </macro>
   </component>
 </application>
