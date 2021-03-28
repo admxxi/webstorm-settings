@@ -4,5 +4,8 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Reformat + EslintFix">
+      <action id="ReformatCode" />
+    </macro>
   </component>
 </application>
