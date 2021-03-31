@@ -45,15 +45,10 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseXmlLiterals" value="true" />
-    <option name="COLLAPSE_XML_LITERALS" value="true" />
-  </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="TodoConfiguration">
@@ -61,8 +56,8 @@
     <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_XML_TAGS" value="true" />
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
     <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
