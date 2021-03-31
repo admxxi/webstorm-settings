@@ -16,9 +16,9 @@
     <mask>ads-css.css</mask>
     <mask>*.xlf</mask>
     <mask>widget.vu</mask>
-    <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>ads-css*</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
