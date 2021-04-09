@@ -50,7 +50,6 @@
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="TodoConfiguration">
