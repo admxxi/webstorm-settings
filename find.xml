@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -18,8 +19,8 @@
     <mask>widget.vu</mask>
     <mask>*.vue</mask>
     <mask>ads-css*</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>fe.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
