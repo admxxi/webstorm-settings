@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_backend*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -20,6 +21,8 @@
     <mask>ads-css*</mask>
     <mask>*.scss</mask>
     <mask>fe.php</mask>
+    <mask>*ctr.php</mask>
     <mask>*.php</mask>
+    <mask>*_backend*</mask>
   </component>
 </application>
