@@ -21,7 +21,7 @@
     <mask>*.scss</mask>
     <mask>fe.php</mask>
     <mask>*ctr.php</mask>
-    <mask>*.php</mask>
     <mask>*_backend*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
