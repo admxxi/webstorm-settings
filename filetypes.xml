@@ -10,6 +10,7 @@
       <mapping pattern=".keep" type="SQL" />
       <mapping pattern=".env.prod" type="Shell Script" />
       <mapping pattern="artisan" type="Shell Script" />
+      <mapping pattern=".npmrc.local" type="Shell Script" />
       <mapping pattern=".envl.ocal" type="Shell Script" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
