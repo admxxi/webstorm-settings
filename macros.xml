@@ -18,5 +18,10 @@
     <macro name="Inspect Current File">
       <action id="InspectCode" />
     </macro>
+    <macro name="Prettier + Eslint + Save">
+      <action id="ReformatWithPrettierAction" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
