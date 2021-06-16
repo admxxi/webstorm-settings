@@ -8,13 +8,15 @@
       <action id="ReformatCode" />
     </macro>
     <macro name="ESlint + Save">
-      <action id="GotoAction" />
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />
     </macro>
     <macro name="Reformat Prettier &amp; Save">
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
+    </macro>
+    <macro name="Inspect Current File">
+      <action id="InspectCode" />
     </macro>
   </component>
 </application>
