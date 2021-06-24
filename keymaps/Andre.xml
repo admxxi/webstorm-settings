@@ -142,13 +142,14 @@
   <action id="IncrementWindowWidth" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="Jdbc.RunSqlScript" />
+  <action id="Macro.Eslint + Prettier + SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Macro.Inspect Current File">
     <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-  <action id="Macro.Reformat Prettier &amp; Save">
-    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown">
@@ -192,6 +193,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
