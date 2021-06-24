@@ -4,12 +4,13 @@
     <property name="created">2021-04-28T20:20:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-04-28T20:30:12</property>
+    <property name="modified">2021-06-24T10:34:39</property>
     <property name="originalScheme">GitHub3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f1f8ff" />
     <option name="GUTTER_BACKGROUND" value="f6f8fa" />
@@ -936,6 +937,9 @@
       <value>
         <option name="FOREGROUND" value="5cc5" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
