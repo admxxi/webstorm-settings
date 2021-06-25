@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CORE-311 Calendar errorContainer message" />
-    <option name="defaultScopeName" value="CORE-311 Calendar errorContainer message" />
-    <option name="SEARCH_SCOPE" value="CORE-311 Calendar errorContainer message" />
+    <option name="customScope" value="CORE-312 [Calendar event form]" />
+    <option name="defaultScopeName" value="CORE-312 [Calendar event form]" />
+    <option name="SEARCH_SCOPE" value="CORE-312 [Calendar event form]" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
