@@ -1,6 +1,5 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="commitMessageValidationEnabled" value="true" />
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
