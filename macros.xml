@@ -23,5 +23,10 @@
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Reformat + Pretiter + Save">
+      <action id="ReformatCode" />
+      <action id="ReformatWithPrettierAction" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>

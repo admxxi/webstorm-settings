@@ -145,11 +145,11 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="Jdbc.RunSqlScript" />
-  <action id="Macro.Eslint + Prettier + SaveAll">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="Macro.Inspect Current File">
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Macro.Reformat + Pretiter + Save">
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown">
