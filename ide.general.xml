@@ -8,5 +8,7 @@
     <entry key="localHistory.daysToKeep" value="28" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="undo.globalUndoLimit" value="30" />
+    <entry key="undo.documentUndoLimit" value="200" />
   </component>
 </application>
