@@ -122,6 +122,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="GotoBookmark2" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
