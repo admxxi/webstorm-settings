@@ -19,7 +19,6 @@
       <action id="InspectCode" />
     </macro>
     <macro name="Eslint + Prettier + SaveAll">
-      <action id="Javascript.Linters.EsLint.Fix" />
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
