@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CORE-357 Events -&gt; External Configuration form its not showing error before submit" />
-    <option name="defaultScopeName" value="CORE-357 Events -&gt; External Configuration form its not showing error before submit" />
-    <option name="SEARCH_SCOPE" value="CORE-357 Events -&gt; External Configuration form its not showing error before submit" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
