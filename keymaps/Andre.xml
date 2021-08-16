@@ -133,6 +133,7 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="HideActiveWindow">
     <mouse-shortcut keystroke="button2 doubleClick" />
@@ -149,9 +150,6 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="Jdbc.RunSqlScript" />
-  <action id="LightEditOpenFileInProject">
-    <keyboard-shortcut first-keystroke="ctrl o" />
-  </action>
   <action id="Macro.Inspect Current File">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
