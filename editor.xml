@@ -1,66 +1,6 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
-    <option name="selectAutopopupSuggestionsByChars" value="true" />
-    <option name="PARAMETER_INFO_DELAY" value="2000" />
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <option name="JAVADOC_INFO_DELAY" value="600" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
-    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="SF Mono" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-    <option name="USE_LIGATURES" value="true" />
-  </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CSS" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="Haml" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="PHP" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-  </component>
-  <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
-    <option name="COLLAPSE_ENTITIES" value="false" />
-    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
