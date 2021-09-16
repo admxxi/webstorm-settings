@@ -30,5 +30,6 @@
     <mask>*.json</mask>
     <mask>*.tsx</mask>
     <mask>*.css</mask>
+    <mask>sagas.js*</mask>
   </component>
 </application>
