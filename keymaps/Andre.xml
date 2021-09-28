@@ -99,12 +99,15 @@
   </action>
   <action id="ExpandToLevel1">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
   <action id="ExpandToLevel2">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
   <action id="ExpandToLevel3">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="meta alt 3" />
   </action>
   <action id="ExpandToLevel4">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad4" />
