@@ -25,6 +25,11 @@
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.database.model.diff.SchemaDiffTool" />
+              <option value="com.intellij.database.diff.TableDiffTool" />
             </list>
           </option>
         </PlaceSettings>
@@ -83,6 +88,8 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="READ_ONLY_LOCK" value="false" />
+          <option name="SHOW_WHITESPACES" value="true" />
+          <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
