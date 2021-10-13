@@ -131,8 +131,9 @@
   </action>
   <action id="GotoBookmark2" />
   <action id="GotoChangedFile" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift meta o" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="HideActiveWindow">
     <mouse-shortcut keystroke="button2 doubleClick" />
@@ -222,6 +223,9 @@
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f" />
