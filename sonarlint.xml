@@ -1,0 +1,8 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <rules>
+      <Rule active="false" key="javascript:S2681" />
+      <Rule active="false" key="python:S1192" />
+    </rules>
+  </component>
+</application>
