@@ -134,6 +134,10 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="HideActiveWindow">
     <mouse-shortcut keystroke="button2 doubleClick" />
   </action>
