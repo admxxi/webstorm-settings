@@ -1,6 +1,6 @@
 <application>
   <component name="autoPowerSaver">
     <option name="delayActivated" value="4" />
-    <option name="delayDeactivated" value="30" />
+    <option name="delayDeactivated" value="4" />
   </component>
 </application>
