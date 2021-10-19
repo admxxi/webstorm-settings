@@ -16,6 +16,7 @@
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern=".keep" type="SQL" />
     </extensionMap>
   </component>
 </application>
