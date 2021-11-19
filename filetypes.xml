@@ -5,7 +5,9 @@
       <mapping pattern=".gitkeep" type="GitIgnore file" />
       <mapping pattern="debug" type="JavaScript" />
       <mapping pattern=".env-dist" type="PLAIN_TEXT" />
+      <mapping pattern=".rvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="SQL" />
       <mapping pattern=".npmrc.local" type="Shell Script" />
