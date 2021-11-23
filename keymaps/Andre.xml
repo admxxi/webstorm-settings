@@ -153,6 +153,9 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="Jdbc.RunSqlScript" />
+  <action id="Macro.Eslint + Prettier + SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Macro.Inspect Current File">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
@@ -223,7 +226,6 @@
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f" />
