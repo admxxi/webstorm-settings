@@ -4,7 +4,8 @@
     <option name="locked" value="true" />
     <option name="minLineCount" value="30" />
     <option name="minWindowWidth" value="60" />
-    <option name="pixelsPerLine" value="2" />
+    <option name="percentageBasedClick" value="true" />
+    <option name="pixelsPerLine" value="4" />
     <option name="width" value="60" />
   </component>
 </application>
