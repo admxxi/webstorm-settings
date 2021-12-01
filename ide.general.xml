@@ -7,7 +7,6 @@
     <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
-    <entry key="localHistory.daysToKeep" value="28" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="undo.globalUndoLimit" value="30" />
