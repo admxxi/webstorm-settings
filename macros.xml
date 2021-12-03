@@ -27,5 +27,10 @@
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Eslint + Save">
+      <action id="GotoAction" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
