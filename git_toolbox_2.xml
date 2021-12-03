@@ -2,7 +2,6 @@
   <component name="GitToolBoxAppSettings2">
     <option name="commitMessageValidationConfig">
       <CommitMessageValidationConfig>
-        <option name="enabled" value="true" />
         <option name="regexConfig">
           <RegexConfig>
             <option name="expression" value="(?:fix|chore|docs|feat|refactor|style|test|ci)(?:\(.*\))?: [A-Za-z].*" />
