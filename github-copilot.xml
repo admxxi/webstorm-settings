@@ -1,5 +1,60 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
+    <disabledLanguages>
+      <option value="$XSLT" />
+      <option value="Bazaar" />
+      <option value="Chef" />
+      <option value="CloudFoundry" />
+      <option value="Cvs" />
+      <option value="Darcs" />
+      <option value="DeployHQ" />
+      <option value="ESLint" />
+      <option value="ElasticBeanstalk" />
+      <option value="Eleventy" />
+      <option value="Floobits" />
+      <option value="Google Cloud" />
+      <option value="Ignore" />
+      <option value="IgnoreLang" />
+      <option value="JSHint" />
+      <option value="JSON" />
+      <option value="JSON Lines" />
+      <option value="JSON5" />
+      <option value="JSONPath" />
+      <option value="JSRegexp" />
+      <option value="JSUnicodeRegexp" />
+      <option value="JShellLanguage" />
+      <option value="JVM" />
+      <option value="Jetpack" />
+      <option value="Kubernetes Helm" />
+      <option value="Mercurial" />
+      <option value="Monotone" />
+      <option value="Nodemon" />
+      <option value="Npm" />
+      <option value="NuxtJS" />
+      <option value="Perforce" />
+      <option value="Prettier" />
+      <option value="RELAX-NG" />
+      <option value="RHTML" />
+      <option value="SPI" />
+      <option value="StyleLint" />
+      <option value="Stylint" />
+      <option value="Swagger Codegen" />
+      <option value="Team Foundation" />
+      <option value="UAST" />
+      <option value="UastContextLanguage" />
+      <option value="Up" />
+      <option value="Vercel" />
+      <option value="XHTML" />
+      <option value="XML" />
+      <option value="XPath" />
+      <option value="XPath2" />
+      <option value="XsdRegExp" />
+      <option value="Yarn" />
+      <option value="YouTrack" />
+      <option value="textmate" />
+    </disabledLanguages>
+    <option name="inlayTextColor" value="#bbb4b4" />
+    <option name="showIdeCompletions" value="true" />
   </component>
 </application>
