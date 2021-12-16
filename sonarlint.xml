@@ -1,15 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://localhost:9000" />
-          <option name="name" value="Local Sonarqube" />
-          <option name="login" value="intellij" />
-          <password>dfc3dfc4dfdedfcfdfc6dfc6dfc3dfc0</password>
-        </SonarQubeServer>
-      </list>
-    </option>
     <rules />
   </component>
 </application>
