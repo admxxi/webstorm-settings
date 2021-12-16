@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta escape" />
     <keyboard-shortcut first-keystroke="meta #10000a7" />
+    <keyboard-shortcut first-keystroke="#10000a7" />
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="ChangesView.ApplyPatch">
@@ -46,6 +47,9 @@
     <keyboard-shortcut first-keystroke="meta alt subtract" />
     <keyboard-shortcut first-keystroke="meta alt minus" />
     <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Database.OpenDbStorageAction">
     <keyboard-shortcut first-keystroke="f4" />
@@ -138,6 +142,7 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="GotoTest" />
   <action id="HideActiveWindow">
     <mouse-shortcut keystroke="button2 doubleClick" />
   </action>
@@ -230,6 +235,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
