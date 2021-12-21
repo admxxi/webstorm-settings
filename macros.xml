@@ -1,29 +1,10 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Format &amp; Save">
-      <action id="ReformatCode" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="Reformat + EslintFix">
-      <action id="ReformatCode" />
-    </macro>
-    <macro name="ESlint + Save">
+    <macro name="ESlint &amp; Save">
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />
     </macro>
     <macro name="Reformat Prettier &amp; Save">
-      <action id="ReformatWithPrettierAction" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="Inspect Current File">
-      <action id="InspectCode" />
-    </macro>
-    <macro name="Eslint + Prettier + SaveAll">
-      <action id="ReformatWithPrettierAction" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="Reformat + Pretiter + Save">
-      <action id="ReformatCode" />
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
