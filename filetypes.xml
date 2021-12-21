@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="x" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="GitIgnore file" />
-      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="debug" type="JavaScript" />
       <mapping pattern=".env-dist" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
@@ -23,6 +22,7 @@
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="its" type="TypeScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
