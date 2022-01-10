@@ -33,7 +33,7 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <Ruby>
-    <option name="EMPTY_DECLARATIONS_STYLE" value="2" />
+    <option name="EMPTY_DECLARATIONS_STYLE" value="0" />
   </Ruby>
   <TypeScriptCodeStyleSettings version="0">
     <option name="INDENT_CHAINED_CALLS" value="false" />
@@ -101,6 +101,13 @@
       <groups />
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="RHTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -129,6 +136,7 @@
   <codeStyleSettings language="ruby">
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SOFT_MARGINS" value="80" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <option name="SPACE_WITHIN_BRACKETS" value="false" />
