@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/app/controllers/calendar_locations_controller.rb'" />
-    <option name="defaultScopeName" value="File '…/app/controllers/calendar_locations_controller.rb'" />
-    <option name="SEARCH_SCOPE" value="File '…/app/controllers/calendar_locations_controller.rb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
