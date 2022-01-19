@@ -161,6 +161,9 @@
   <action id="Macro.ESlint &amp; Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Macro.Reformat Prettier &amp; Save">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -282,6 +285,7 @@
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="tasks.switch">
     <keyboard-shortcut first-keystroke="shift alt t" />
     <keyboard-shortcut first-keystroke="alt t" />
