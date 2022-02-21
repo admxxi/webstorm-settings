@@ -159,7 +159,7 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="Jdbc.RunSqlScript" />
-  <action id="Macro.ESlint &amp; Save">
+  <action id="Macro.Reformat + Eslint + Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Macro.Reformat Prettier &amp; Save">
