@@ -201,12 +201,8 @@
   <action id="Quokka.RunQuokkaOnFile">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="Quokka.RunQuokkaOnFileAutomatically">
-    <keyboard-shortcut first-keystroke="shift q" />
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
-  <action id="Quokka.StopQuokkaOnFile">
-    <keyboard-shortcut first-keystroke="alt w" />
+  <action id="Quokka.RunQuokkaOnFileOnce">
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="RecentFiles" />
   <action id="ReformatCode">
