@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="x" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="GitIgnore file" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="debug" type="JavaScript" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern=".env-dist" type="PLAIN_TEXT" />
