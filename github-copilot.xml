@@ -55,5 +55,6 @@
     </disabledLanguages>
     <option name="inlayTextColor" value="#bbb4b4" />
     <option name="showIdeCompletions" value="true" />
+    <option name="telemetryTermsAcceptedDate" value="2022-05-10T17:32:47.129594+01:00[Europe/Dublin]" />
   </component>
 </application>
