@@ -1,0 +1,35 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="commitMessageValidationConfig">
+      <CommitMessageValidationConfig>
+        <option name="regexConfig">
+          <RegexConfig>
+            <option name="expression" value="(?:fix|chore|docs|feat|refactor|style|test|ci)(?:\(.*\))?: [A-Za-z].*" />
+            <option name="testInput" value="fix: " />
+          </RegexConfig>
+        </option>
+      </CommitMessageValidationConfig>
+    </option>
+    <option name="decorationParts">
+      <list>
+        <DecorationPartConfig>
+          <option name="type" value="LOCATION" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="BRANCH" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="STATUS" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="postfix" value=")" />
+          <option name="prefix" value="(" />
+          <option name="type" value="TAGS_ON_HEAD" />
+        </DecorationPartConfig>
+      </list>
+    </option>
+    <option name="previousVersionMigrated" value="true" />
+    <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="5" />
+  </component>
+</application>

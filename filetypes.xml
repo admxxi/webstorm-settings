@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.eslintcache;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern=".gitkeep" type="GitIgnore file" />
+      <mapping pattern="debug" type="JavaScript" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping pattern=".env-dist" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc.local" type="Shell Script" />
+      <mapping pattern=".env.prod" type="Shell Script" />
+      <mapping pattern=".envl.ocal" type="Shell Script" />
+      <mapping pattern="artisan" type="Shell Script" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern=".keep" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
