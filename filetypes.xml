@@ -4,27 +4,18 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="GitIgnore file" />
       <mapping pattern="debug" type="JavaScript" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern=".env-dist" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
-      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="SQL" />
       <mapping pattern=".npmrc.local" type="Shell Script" />
-      <mapping pattern=".envl.ocal" type="Shell Script" />
       <mapping pattern=".env.prod" type="Shell Script" />
+      <mapping pattern=".envl.ocal" type="Shell Script" />
       <mapping pattern="artisan" type="Shell Script" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
-      <mapping ext="its" type="TypeScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
-      <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern=".keep" type="SQL" />
     </extensionMap>
   </component>
 </application>
