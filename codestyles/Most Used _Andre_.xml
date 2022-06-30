@@ -135,7 +135,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SOFT_MARGINS" value="100" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
