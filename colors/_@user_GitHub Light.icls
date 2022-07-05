@@ -1,11 +1,15 @@
 <scheme name="_@user_GitHub Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-12-14T18:12:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-07-04T17:44:37</property>
+    <property name="modified">2022-07-05T16:22:51</property>
     <property name="originalScheme">GitHub Light</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b4ec7e" />
     <option name="CARET_ROW_COLOR" value="f1f8ff" />
