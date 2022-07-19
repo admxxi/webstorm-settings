@@ -161,6 +161,7 @@
   <action id="Jdbc.RunSqlScript" />
   <action id="Macro.Reformat Prettier &amp; Save">
     <keyboard-shortcut first-keystroke="shift meta s" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown">
@@ -229,7 +230,6 @@
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt f" />
