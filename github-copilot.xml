@@ -4,7 +4,6 @@
     <disabledLanguages>
       <option value="$XSLT" />
       <option value="IgnoreLang" />
-      <option value="JSON" />
       <option value="JSON Lines" />
       <option value="JSON5" />
       <option value="JSONPath" />
