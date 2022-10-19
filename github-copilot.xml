@@ -2,7 +2,6 @@
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
     <disabledLanguages>
-      <option value="$XSLT" />
       <option value="IgnoreLang" />
       <option value="JSON Lines" />
       <option value="JSON5" />
@@ -12,8 +11,6 @@
       <option value="RELAX-NG" />
       <option value="XHTML" />
       <option value="XML" />
-      <option value="XPath" />
-      <option value="XPath2" />
       <option value="XsdRegExp" />
       <option value="YouTrack" />
       <option value="textmate" />
