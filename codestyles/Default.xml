@@ -12,6 +12,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="ENUM_CONSTANTS_WRAP" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
