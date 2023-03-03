@@ -7,13 +7,15 @@
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern=".env-dist" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping pattern=".env.*" type="Shell Script" />
       <mapping pattern=".npmrc.local" type="Shell Script" />
-      <mapping pattern=".env.prod" type="Shell Script" />
-      <mapping pattern=".envl.ocal" type="Shell Script" />
       <mapping pattern="artisan" type="Shell Script" />
       <mapping ext="its" type="TypeScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".env.prod" approved="true" type="Shell Script" />
+      <removed_mapping pattern=".envl.ocal" approved="true" type="Shell Script" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <mapping ext=".model" type="Tabnine project model file" />
