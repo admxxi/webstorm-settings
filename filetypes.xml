@@ -14,6 +14,8 @@
       <mapping pattern="artisan" type="Shell Script" />
       <mapping ext="its" type="TypeScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern=".env.prod" approved="true" type="Shell Script" />
       <removed_mapping pattern=".envl.ocal" approved="true" type="Shell Script" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
