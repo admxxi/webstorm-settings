@@ -12,9 +12,7 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta escape" />
-    <keyboard-shortcut first-keystroke="meta #10000a7" />
-    <keyboard-shortcut first-keystroke="#10000a7" />
+    <keyboard-shortcut first-keystroke="back_quote" />
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="ChangesView.ApplyPatch">
