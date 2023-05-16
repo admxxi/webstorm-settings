@@ -1,6 +1,6 @@
 <application>
   <component name="ReactBuddyPluginAppSettings">
-    <option name="extensionLastUpdateCurrentMillis" value="1678320158743" />
+    <option name="extensionLastUpdateCurrentMillis" value="1684224905167" />
     <option name="extensions">
       <ExtensionState>
         <option name="libraryPackage" value="antd" />
@@ -8,6 +8,8 @@
         <option name="palettePackage" value="@react-buddy/palette-antd" />
         <option name="versions">
           <option value="4.18.1" />
+          <option value="5.0.0" />
+          <option value="5.3.0" />
         </option>
       </ExtensionState>
       <ExtensionState>
@@ -24,6 +26,30 @@
         <option name="palettePackage" value="@react-buddy/palette-mantine" />
         <option name="versions">
           <option value="5.7.1" />
+        </option>
+      </ExtensionState>
+      <ExtensionState>
+        <option name="libraryPackage" value="@mantine/core" />
+        <option name="paletteComponentName" value="MantinePalette" />
+        <option name="palettePackage" value="@react-buddy/palette-mantine-core" />
+        <option name="versions">
+          <option value="6.0.0" />
+        </option>
+      </ExtensionState>
+      <ExtensionState>
+        <option name="libraryPackage" value="@mantine/form" />
+        <option name="paletteComponentName" value="MantinePalette" />
+        <option name="palettePackage" value="@react-buddy/palette-mantine-form" />
+        <option name="versions">
+          <option value="6.0.0" />
+        </option>
+      </ExtensionState>
+      <ExtensionState>
+        <option name="libraryPackage" value="@mantine/dates" />
+        <option name="paletteComponentName" value="MantinePalette" />
+        <option name="palettePackage" value="@react-buddy/palette-mantine-dates" />
+        <option name="versions">
+          <option value="6.0.0" />
         </option>
       </ExtensionState>
       <ExtensionState>
