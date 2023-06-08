@@ -2,13 +2,12 @@
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
     <disabledLanguages>
-      <option value="IgnoreLang" />
+      <option value="ECMA Script Level 4" />
       <option value="JSON Lines" />
       <option value="JSON5" />
       <option value="JSONPath" />
-      <option value="JSRegexp" />
-      <option value="JSUnicodeRegexp" />
       <option value="RELAX-NG" />
+      <option value="SVG" />
       <option value="XHTML" />
       <option value="XML" />
       <option value="XsdRegExp" />
