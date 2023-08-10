@@ -1,19 +1,21 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
-    <disabledLanguages>
-      <option value="ECMA Script Level 4" />
-      <option value="JSON Lines" />
-      <option value="JSON5" />
-      <option value="JSONPath" />
-      <option value="RELAX-NG" />
-      <option value="SVG" />
-      <option value="XHTML" />
-      <option value="XML" />
-      <option value="XsdRegExp" />
-      <option value="YouTrack" />
-      <option value="textmate" />
-    </disabledLanguages>
+    <languageAllowList>
+      <map>
+        <entry key="ECMA Script Level 4" value="false" />
+        <entry key="JSON Lines" value="false" />
+        <entry key="JSON5" value="false" />
+        <entry key="JSONPath" value="false" />
+        <entry key="RELAX-NG" value="false" />
+        <entry key="SVG" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
+        <entry key="XsdRegExp" value="false" />
+        <entry key="YouTrack" value="false" />
+        <entry key="textmate" value="false" />
+      </map>
+    </languageAllowList>
     <option name="inlayTextColor" value="#ab87e7" />
     <option name="showIdeCompletions" value="true" />
   </component>
